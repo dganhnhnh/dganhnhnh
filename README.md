@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋 it's me Daizy
+
+- 🌱 I am currently studying at Hanoi University of Science and Technology, my major is Computer Science.
+- 🔭 I am working as a blockchain developer.
+- 💻 My tech stack: Python, JS/TS, Rust, Solidity.
+- ✨ Striving to develop my skills and knowledge on latest technologies across domains: Blockchain, AI, Web development,...
+- 🤔 I’m looking for help with becoming better at seeing difficult and worthwhile problems to solve using the power of technology!
+- 📫 How to reach me: 
+  + 📧 anhnd2973@gmail.com 
+  + 📞 (+84) 862 950 297
 
 <!--
 **dganhnhnh/dganhnhnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
